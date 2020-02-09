@@ -103,3 +103,4 @@ function countMovie(){
     }
   }
 
+console.log("This change was made using git bash!")
