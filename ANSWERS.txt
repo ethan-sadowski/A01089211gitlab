@@ -1,6 +1,5 @@
-mkdir A01089211gitlab
-mv 'COMP 1800 Movie List Lab' A01089211gitlab
 git init
+git add .
 git commit -m "Initial commit."
 git remote add origin https://github.com/ethan-sadowski/A01089211gitlab.git
 git push -u origin master

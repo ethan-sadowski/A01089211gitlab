@@ -1,0 +1,2 @@
+The .md extension represents markdown text syntax.
+.md allows users to display text in different typefaces, bolden, and create tables or lists just by using the markdown language syntax. Github displays the contents of .md files beneath github repository contents.
